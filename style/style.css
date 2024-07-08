@@ -20,6 +20,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    opacity: 100%;
 
 }
 .banner-content{
@@ -243,3 +244,138 @@ height: 29px;
     bottom: 30%;
     left: 50%;
 }
+
+/* port-container */
+.port-container{
+    
+    width: 1320px;
+    height: 1163px;
+    margin: 0px auto;
+    margin-top: 150px;
+   
+}
+.porth5{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+}
+.porth1{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.portp{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+.portimg {
+    margin-top: 30px;
+
+}
+.portimg img{
+    width: 424px;
+    height: 450px;
+    margin: 6px;
+    border: rgb(68, 65, 65) dotted thin ;
+    border-radius: 20px;
+}
+ /* footer */
+ .social{
+    width: 1600px;
+    height: 609px;
+    margin: 0px auto;
+    margin-top: 150px;
+    border: 1px solid rgb(7, 2, 17);
+    background: rgb(7, 2, 17);
+ }
+ .address{
+    display: flex;
+    width: 1185px;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+
+ }
+ .add{
+    color: aliceblue;
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 80px;
+ }
+ .num-web{
+    color: aliceblue;
+   
+ }
+ .num{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: left;
+ }
+ .web{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: left;
+ }
+ .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content:center ;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 60px;
+ }
+ .copyright{
+    display: flex;
+    justify-content: space-between;
+    margin: 90px 150px;
+
+ }
+ .copyright h4{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+ }
+ .copyright h5{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+ }
